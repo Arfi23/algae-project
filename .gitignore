@@ -1,0 +1,10 @@
+data/
+results/
+__pycache__/
+*.npy
+*.mat
+*.spec
+*.spec.hdr
+*.bip
+*.bip.hdr
+repoPAT.txt
