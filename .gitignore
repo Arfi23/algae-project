@@ -8,3 +8,4 @@ __pycache__/
 *.bip
 *.bip.hdr
 repoPAT.txt
+.ipynb_checkpoints/
